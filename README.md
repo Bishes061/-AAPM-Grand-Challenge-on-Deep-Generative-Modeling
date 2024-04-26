@@ -1,4 +1,4 @@
-# -AAPM-Grand-Challenge-on-Deep-Generative-Modeling
+# Deep-Generative-Modeling
 
 # Project Overview
 
